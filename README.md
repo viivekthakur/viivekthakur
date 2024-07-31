@@ -21,10 +21,10 @@
                                                                                                                                                                                                                                                                                                                                                                                                        
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ### About Me 🚀
-- I’m a student pursuing my Bachelors in Computer Science & Engineering. </br>
-- I am passionate about Web dev, Machine Learning, Cyber security & I enjoy learning new things. </br> 
-- I’m currently learning python and web development.
-- I’m looking to collaborate on Project related to python and basic web dev projects.
+- I’m a final year student pursuing my Bachelors in Computer Science & Engineering. </br>
+- I am passionate about Web dev, Machine Learning, Designing & I enjoy learning new things. </br> 
+- I’m currently learning Adobe XD and MERN.
+- I’m looking to collaborate on Project related to UI/UX Designing and basic MERN projects.
 - all the link to connect with me:[ vivek!](https://bio.link/vivekthakur)
 
 ## ⚡ Technologies
@@ -33,7 +33,6 @@
 ### Language :
 
 ![JAVA](https://img.shields.io/badge/-JAVA-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
